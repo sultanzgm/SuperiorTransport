@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "319142638676",
+    "firebase_url": "https://superiortransportapp.firebaseio.com",
+    "project_id": "superiortransportapp",
+    "storage_bucket": "superiortransportapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319142638676:android:2cc83b8c50f9c63a51a9c1",
+        "android_client_info": {
+          "package_name": "com.example.superiortransport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319142638676-l4bi3o8dml4n7rrntoe8nejhv5a3kicg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.superiortransport",
+            "certificate_hash": "cd9fb4d538b8f92bb7848d4ea619f27651a799eb"
+          }
+        },
+        {
+          "client_id": "319142638676-r0g7h5s5o5r502o7mkr4de9f92cqru1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKxbBz9hkTbl0uTRohtm3NMlvFm4LDO-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319142638676-r0g7h5s5o5r502o7mkr4de9f92cqru1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
